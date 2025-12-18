@@ -108,9 +108,9 @@ The notebook is structured to run top-to-bottom and is intended as a reproducibl
 ## Files
 
 - `energy-consumption-pattern-discovery.ipynb` – Full analysis notebook
-- `report/` – Final written report (PDF)
-- `slides/` – Presentation slides
-- `proposal/` – Original project proposal
+- `Report/` – Final written report (PDF)
+- `Slides/` – Presentation slides
+- `Proposal/` – Original project proposal
 
 ---
 
